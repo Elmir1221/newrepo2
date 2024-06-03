@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\home_project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\home_project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\blog.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\blog.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\contact.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\contact.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\courses.css",
+      "PackagePath": "staticwebassets\\assets\\css\\courses.css"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\courses.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\courses.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\courses.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\courses.scss"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\home.css",
+      "PackagePath": "staticwebassets\\assets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\home.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\home.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\css\\home.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\home.scss"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\186401_grid_icon(2).png",
+      "PackagePath": "staticwebassets\\assets\\images\\186401_grid_icon(2).png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\IMG-20240503-WA0003.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\IMG-20240503-WA0003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\IMG-20240503-WA0004.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\IMG-20240503-WA0004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\banner-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\banner-bg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\banner-img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\banner-img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\call.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\call.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\cart-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\cart-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\cart-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\cart-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\cart-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\cart-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\cart.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\compass.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\compass.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\contact-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\contact-shape-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\contact-shape-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\contact-shape-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-shape-5.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\course-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\course-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\course-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\course-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\course-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\course-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\course-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\course-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\course-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\cta-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cta-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\discord.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\discord.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\electric-guitar.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\electric-guitar.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\events-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\events-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\graph.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\graph.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\grid.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\grid.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\hero-1-circle-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-circle-2.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\hero-1-circle-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-circle-3.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\hero-1-circle-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-circle-4.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\hero-1-circle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-circle.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\hero-1-dot-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-dot-2.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\hero-1-dot.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1-dot.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\hero-sm-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\home.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\home.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\house.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\house.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\logo-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\mail.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\mail.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\map.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\map.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\message.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\message.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\page-title.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\page-title.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\paint.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\paint.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\pie-chart.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\search.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\shopping-cart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shopping-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\smile.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\smile.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\tablet.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\tablet.svg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\teacher-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\teacher-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\teacher-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\teacher-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\teacher-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\teacher-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\teacher-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\teacher-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\teacher-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teacher-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\images\\yellow-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\yellow-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\js\\blog.js",
+      "PackagePath": "staticwebassets\\assets\\js\\blog.js"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\js\\courses.js",
+      "PackagePath": "staticwebassets\\assets\\js\\courses.js"
+    },
+    {
+      "Id": "C:\\Users\\FA507XV\\Desktop\\home_project\\home_project\\wwwroot\\assets\\js\\home.js",
+      "PackagePath": "staticwebassets\\assets\\js\\home.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.home_project.props",
+      "PackagePath": "build\\home_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.home_project.props",
+      "PackagePath": "buildMultiTargeting\\home_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.home_project.props",
+      "PackagePath": "buildTransitive\\home_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.home_project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
